@@ -1,4 +1,4 @@
-### Hi! I'm Kamila <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+# Hi! I'm Kamila <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 Welcome to my personal GitHub account! I'm an enthusiastic software engineering student. I'm always eager to learn and expand my skill set. Currently, I'm focusing on Android development, and this is where I showcase my projects and code examples.
 <!--
 **rybakova-auca-2021/rybakova-auca-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
